@@ -1,6 +1,6 @@
 # Example Curvenote Landing Page (using QIIME 2 content)
 
-A MyST based landing page for the QIIME 2 project using the open source [Landing Page Theme](https://github.com/curvenote-themes/landing) and [custom roles & directives](https://github.com/myst-ext) by [Curvenote](https://curvenote.com).
+An example landing page (using the QIIME 2 project) using [Landing Page Theme](https://github.com/curvenote-themes/landing) and [custom roles & directives](https://github.com/myst-ext) by [Curvenote](https://curvenote.com).
 
 ![](example-page.png)
 
